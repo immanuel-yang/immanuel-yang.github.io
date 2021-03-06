@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Penguin Always Love Koala"
+title                    : "Personal Blog of Yang Wonsuk Immanuel"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Wonsuk Immanuel Yang"
-description              : "An amazing website."
+name                     : "Yang Wonsuk Immanuel"
+description              : "This blog is mostly about Catholic Theology and Computer Programming"
 url                      : "http://immanuel-yang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Yang Wonsuk Immanuel"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "B.S. Physics, KAIST. M.S. Computer Science, KAIST."
+  location         : "Daejeon, South Korea"
+  email            : "derrick0511@kaist.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
